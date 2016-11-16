@@ -1,6 +1,7 @@
 # richSelectionTool
 
 Steps to test:
+-          Build the plugin using Makefile (Makefile tested in OSX), You can create new project in VC++ and build the sample
 -          Copy richSelectionProperities.mel and richSelectionValues.mel to Maya script folder “/Applications/Autodesk/maya2017/Maya.app/Contents/scripts/others”
 -          Launch Maya 2017
 -          Load richSelectionTool plug-in
