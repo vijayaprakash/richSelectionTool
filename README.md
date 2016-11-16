@@ -5,7 +5,7 @@ Steps to test:
 -          Copy richSelectionProperities.mel and richSelectionValues.mel to Maya script folder “/Applications/Autodesk/maya2017/Maya.app/Contents/scripts/others”
 -          Launch Maya 2017
 -          Load richSelectionTool plug-in
--          Run mel scirpts:
+-          Run mel scirpts in script editor:
             richSelectionContext richSelectionContext1;
             setToolTo richSelectionContext1;
             toolPropertyWindow;
