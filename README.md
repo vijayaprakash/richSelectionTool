@@ -10,3 +10,7 @@ Steps to test:
             setToolTo richSelectionContext1;
             toolPropertyWindow;
 -          They you should be on this rich selection tool and could change the soft selection and symmetrical selection options. Double clicking to select shell, edge loop/rings should also works
+
+## Written by
+Vijaya Prakash (Autodesk Developer Network)<br />
+http://www.autodesk.com/adn<br />
