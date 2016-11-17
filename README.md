@@ -9,4 +9,5 @@ Steps to test:
             richSelectionContext richSelectionContext1;
             setToolTo richSelectionContext1;
             toolPropertyWindow;
+-          Switch to component selection mode (vertex/edge/face)
 -          They you should be on this rich selection tool and could change the soft selection and symmetrical selection options. Double clicking to select shell, edge loop/rings should also works
